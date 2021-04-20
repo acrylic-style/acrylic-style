@@ -9,4 +9,3 @@
   - i love playing [osu!](https://osu.ppy.sh/users/13293262)
 - fun stuff
   - [ezpp! changelogs (temp)](https://next.acrylicstyle.xyz/ezpp.html)
-  - [times i spent for ezpp! 2021/03/21 - 2021/03/31](https://wakatime.com/@acrylic_style/projects/lzmlecizsh?start=2021-03-21&end=2021-03-31)
