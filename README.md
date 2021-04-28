@@ -9,3 +9,4 @@
   - i love playing [osu!](https://osu.ppy.sh/users/13293262)
 - fun stuff
   - [ezpp! changelogs (temp)](https://next.acrylicstyle.xyz/ezpp.html)
+  - I made -GN mod. https://twitter.com/minusGN/status/1387318271649763328
