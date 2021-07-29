@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on... nothing??
 - 🌱 I’m currently learning:
-  - C++
+  - C++ (and JNI)
 - 🤔 I’m looking for... nothing??
 - 💬 Ask me about developing plugin i guess (with stacktraces if you have one)
 - 📫 How to reach me: osu__player#1443 (preferred), me@acrylicstyle.xyz
