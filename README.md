@@ -34,5 +34,5 @@
 - I made -GN mod. https://twitter.com/minusGN/status/1387318271649763328 ([source code](https://github.com/acrylic-style/-GN))
 
 ### ✨ other stuff
-- github sponsors coming soon:tm:
+- github sponsors ~~coming soon:tm:~~ is now available
 - please don't star old repos thanks
