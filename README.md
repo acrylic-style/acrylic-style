@@ -35,4 +35,5 @@
 
 ### ✨ other stuff
 - github sponsors ~~coming soon:tm:~~ is now available
+- [プラグイン依頼はこのページから](https://github.com/sponsors/acrylic-style?frequency=one-time)
 - please don't star old repos thanks
