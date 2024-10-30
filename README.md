@@ -1,19 +1,14 @@
 ## Hi there 👋
 
 ### 🔭 I'm currently working for...
-[BlueberryMC](https://github.com/BlueberryMC) project, a yet another Minecraft modding API
+[AzisabaNetwork](https://github.com/AzisabaNetwork) Minecraft server
 
 ### 🌱 Learning
-- C++ (along with JNI)
-
-### 💬 Talk to me when...
-- you have some error when developing your own plugin (with stacktraces, please)
-- or if you just want to talk with me
+- ⚙️Rust
 
 ### 📫 How to reach me
-- Discord: `PerfectBoat#0001` (preferred)
+- Discord: `perfectboat` (preferred)
 - email: `me＠acrylicstyle.xyz` (please don't send promotional emails)
-- Twitter: [@PerfectBoatJP](https://github.com/PerfectBoatJP) (not recommended, though)
 
 ### ⚡ Fun fact
 - i don't play [osu!](https://osu.ppy.sh/users/13293262)
@@ -34,6 +29,4 @@
 - I made -GN mod. https://twitter.com/minusGN/status/1387318271649763328 ([source code](https://github.com/acrylic-style/-GN))
 
 ### ✨ other stuff
-- github sponsors ~~coming soon:tm:~~ is now available
-- [プラグイン依頼はこのページから](https://github.com/sponsors/acrylic-style?frequency=one-time)
 - please don't star old repos thanks
