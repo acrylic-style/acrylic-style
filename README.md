@@ -22,10 +22,6 @@
 - Yululi Server -> June 2019 - January 2021
 
 ### 💥 Fun stuff
-- [ezpp! / ezpp! experimental changelog](https://next.acrylicstyle.xyz/ezpp.html)
-- [ezpp!](https://chrome.google.com/webstore/detail/ezpp/aimihpobjpagjiakhcpijibnaafdniol) [(source)](https://github.com/oamaok/ezpp)
-- [ezpp! experimental](https://chrome.google.com/webstore/detail/iihpkkdlbfcanaaignnjcgmlhhbpoioh) [(source)](https://github.com/acrylic-style/ezpp)
-- ^ this is not updating due to lack of motivation and ton of things to do
 - I made -GN mod. https://twitter.com/minusGN/status/1387318271649763328 ([source code](https://github.com/acrylic-style/-GN))
 
 ### ✨ other stuff
